@@ -4,7 +4,7 @@ Bienvenido a Mars Attack, un videojuego 2D desarrollado en Python utilizando la 
 
 ## Configuración del entorno de desarrollo
 
-Este proyecto está configurado para el entorno de desarrollo integrado (IDE) PyCharm. Recomendamos abrir y ejecutar el proyecto en este IDE.
+Este proyecto ha sido desarrollado utilizando el entorno de desarrollo integrado (IDE) PyCharm. Sin embargo, el código es compatible con Python estándar y debería poder abrirse y ejecutarse en tu IDE de confianza para Python.
 
 ## Ejecución del videojuego
 
